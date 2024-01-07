@@ -1,0 +1,7 @@
+resources/
+.venv/
+voice_model/
+audio_recording.wav
+shop.mp3
+__pycache__/
+data.jsonl
